@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="desc">Product Image</string>
+    <string name="toolbar">Product</string>
+    <string name="tabName1">Features</string>
+    <string name="tabName2">Description</string>
+</resources>
